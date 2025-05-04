@@ -1,4 +1,4 @@
 Mastermind-Scheme
 =================
 
-A mastermind solver in scheme
+A mastermind solver in scheme!
